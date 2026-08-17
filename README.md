@@ -1,1 +1,1 @@
-# hi-
+B.Sc. Computer Science and Applications student at Aligarh Muslim University, with an interest in programming, problem-solving, and Data Structures & Algorithms. Currently strengthening my foundations in C and C++, while exploring computer science and aspiring to build a career in AI and related fields.
